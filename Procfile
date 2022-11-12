@@ -1,1 +1,1 @@
-web: gunicorn app:searx/webapp
+web: gunicorn app:searx
